@@ -1,0 +1,15 @@
+Day started with Explaining to new Joinees on Claude installation.
+
+
+Skill - Generic Skill will create entire application
+
+
+Automation UI test skill
+ 
+Build me a Claude Code skill called “e2e-test-suite-ui-playwright" that can execute UI automation tests with Playwright. 
+Use the C:\vijay\claude\projects\ecommerce-smartbuy-app as the base application to build and test this skill against. 
+In future, I will be using this skill repeatedly and on demand to test UI of similar full stack applications. 
+Always create  test suite in headless false mode. Always ask for a new DB URL for these tests. Do not use my applications’ database. 
+My goal is to ensure that bugs are not introduced with future enhancements. 
+I want real, repeatable regression tests - not a one-off demo - that I can run on demand before merging changes.
+ 

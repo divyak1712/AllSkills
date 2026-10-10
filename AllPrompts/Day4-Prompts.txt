@@ -1,0 +1,39 @@
+Build me a Claude Code skill called "build-fullstack-react-app" that scaffolds and deploys a full-stack booking/reservation app for any domain 
+(tennis courts, doctor appointments, salon slots, equipment rentals, meeting rooms, etc.). Utilize all the learnings & corrections that you incorporated 
+from building the tennis-booking and eCommerce portal.Use these applications as your blueprints when building this skill. I want to utilize this skill 
+repeatedly in the future when building similar full stack applications.
+
+
+
+
+1-build a full stack car rental booking app
+ 
+2- app should provide rental selection options
+ 
+3- compare various available car options
+ 
+4- proceed to check out securely
+ 
+5- manage user's active  session effectively
+ 
+6- use  Angular for the UI
+ 
+7- use Python for the server
+ 
+8- use MySQL for the database
+
+
+ 
+Build me a Claude Code skill called "build-fullstack-python-angular-app" that scaffolds and deploys a full-stack booking/reservation app for any domain 
+(tennis courts, doctor appointments, salon slots, equipment rentals, meeting rooms, etc.). Utilize the exisitng build-fullstack-react-app skill as the parent 
+or a base skill and make the necessary adjustments to incorporate the below.
+1- use  Angular for the UI
+2- use Python for the server 
+3- use MySQL for the database
+
+
+Sign in to TiDB Cloud
+Mysql Connection String : 
+mysql://3ajRXa1sXQDqKtb.root:PJpdAAPKF2s5QHX8@gateway01.ap-northeast-1.prod.aws.tidbcloud.com:4000/sys
+
+
